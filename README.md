@@ -38,3 +38,6 @@ The HIV dataset was analysed in the following steps :
 1. Hub analysis
 2. Interaction analysis
 3. GeneMANIA guided comparison
+
+<img width="949" height="247" alt="image" src="https://github.com/user-attachments/assets/1d4f9a1e-cdb3-4a73-94a8-db3a69b38fba" />
+
