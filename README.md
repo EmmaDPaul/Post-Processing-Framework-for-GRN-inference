@@ -1,4 +1,4 @@
-# Post-Processing-Framework-for-GRN-inference
+# CoReGRN: Post-Processing-Framework-for-GRN-inference
 
 
 This work focuses on a post-processing approach applied to the GRN network inferred from multiple existing algorithms listed below
